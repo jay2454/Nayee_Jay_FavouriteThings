@@ -5,7 +5,7 @@ In this project i am building an app that showcase my 3 most favourite things. M
 ### Getting Started
 This is a basic HTML/ CSS/ JavaScript/ SASS/ AJAX/ PHP build. If you don't know what any of these are, start here: https://developer.mozilla.org/
 
-Clone this to the location of your choice, open in your favourite editor! start here: [Roadmap Document](https://docs.google.com/document/d/1_oItrgKKzbo32z1JjnH6Pl5kfAICUVOlgNHegyNUmPE/edit?usp=sharing).
+Clone this to the location of your choice, open in your favourite editor! start here: [Roadmap Document](https://docs.google.com/document/d/19LkB2qAomO8ntT2aZ4OFGy06fOKp_1_aPypiyAONFfQ/edit?usp=sharing).
 
 ### Prerequisites
 Just an editor and Git!
