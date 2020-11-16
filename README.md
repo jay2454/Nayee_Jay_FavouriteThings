@@ -1,4 +1,4 @@
-#Favourite Things!
+# Favourite Things!
 
 In this project i am building an app that showcase my 3 most favourite things. My one of the most favourite things are my video games and here i'm trying to showcase one of the best video games i played in my life and how important it is to me.
 
